@@ -693,3 +693,5 @@ st.markdown("""
     Built with Python · Streamlit · Plotly &nbsp;|&nbsp; Unified Mentor Research Project
 </div>
 """, unsafe_allow_html=True)
+
+"Delete unwanted file"
